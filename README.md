@@ -1,5 +1,4 @@
-# fit4uni-project-overview
-Overview of my SCC201 Software Engineering group project
+
 # Fit4Uni App — Software Engineering Group Project
 
 Fit4Uni is a mobile fitness application designed for Lancaster University students. The app encourages students to stay active by combining fitness tracking, gamification, rewards, social challenges, leaderboards, and an AI assistant.
